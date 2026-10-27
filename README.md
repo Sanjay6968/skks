@@ -25,8 +25,6 @@ This platform delivers:
 ├── docker-compose.yml
 ├── Procfile
 ├── vercel.json
-├── PRESENTATION.md
-├── VIDEO_GUIDE.md
 ├── README.md
 ├── backend/
 │   ├── main.py
